@@ -1,4 +1,7 @@
 # Desafio
-Added :balloon:
-Modified :car:
-Untracked :motorway:
+
+- **_Added :balloon:_**
+
+* **_Modified :car:_**
+
+- **_Untracked :motorway:_**
